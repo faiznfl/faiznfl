@@ -1,6 +1,6 @@
 # Hi there, I'm Faiz Naufal Putra Permana 👋
 
-<p align="center">
+<p>
   <b>Front-End Developer & UI/UX Design Enthusiast</b><br>
   Sistem Informasi Student @ Universitas Pamulang
 </p>
@@ -16,12 +16,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-![Faiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=tokyonight)
 
 ---
 
